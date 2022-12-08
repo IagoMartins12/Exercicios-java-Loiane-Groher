@@ -1,2 +1,2 @@
 # Java
-Exemplos de programas em java que eu já fiz 
+Exercicios feitos utilizando a linguagem java atraves do curso de Java da Loiane Groher
